@@ -23,4 +23,4 @@
 
 - **我真会的：** Python/C/C++/KYT/Tracing(cryptocurrencies)......
 
-- **其他语言：** 精通 vibe-coding. 在 Claude Code 的帮助下我什么都会 🤣
+- **其他：** 精通 vibe-coding. 在 Claude Code 的帮助下我什么都会 🤣
